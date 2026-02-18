@@ -1,3 +1,3 @@
-# new project
-
-this project was created from  local system
+# New project
+This project was created from local system.
+created by rahul dhawas.
